@@ -18,7 +18,7 @@ import com.idormy.sms.forwarder.utils.KEY_TASK_CLONE
 import com.idormy.sms.forwarder.utils.KEY_TASK_ID
 import com.idormy.sms.forwarder.utils.Log
 import com.idormy.sms.forwarder.utils.XToastUtils
-import com.scwang.smartrefresh.layout.api.RefreshLayout
+import com.scwang.smart.refresh.layout.api.RefreshLayout
 import com.xuexiang.xaop.annotation.SingleClick
 import com.xuexiang.xpage.annotation.Page
 import com.xuexiang.xpage.core.PageOption

@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.webkit.WebView
 import com.idormy.sms.forwarder.R
 import com.just.agentweb.widget.IWebLayout
-import com.scwang.smartrefresh.layout.SmartRefreshLayout
+import com.scwang.smart.refresh.layout.SmartRefreshLayout
 
 /**
  * 定义支持下来回弹的WebView

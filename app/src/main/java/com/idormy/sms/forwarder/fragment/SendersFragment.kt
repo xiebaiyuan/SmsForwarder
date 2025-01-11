@@ -56,7 +56,7 @@ import com.idormy.sms.forwarder.utils.TYPE_WEBHOOK
 import com.idormy.sms.forwarder.utils.TYPE_WEWORK_AGENT
 import com.idormy.sms.forwarder.utils.TYPE_WEWORK_ROBOT
 import com.idormy.sms.forwarder.utils.XToastUtils
-import com.scwang.smartrefresh.layout.api.RefreshLayout
+import com.scwang.smart.refresh.layout.api.RefreshLayout
 import com.xuexiang.xaop.annotation.SingleClick
 import com.xuexiang.xpage.annotation.Page
 import com.xuexiang.xpage.base.XPageFragment

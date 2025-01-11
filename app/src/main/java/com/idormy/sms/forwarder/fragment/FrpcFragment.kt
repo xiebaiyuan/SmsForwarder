@@ -29,7 +29,7 @@ import com.idormy.sms.forwarder.utils.INTENT_FRPC_APPLY_FILE
 import com.idormy.sms.forwarder.utils.INTENT_FRPC_EDIT_FILE
 import com.idormy.sms.forwarder.utils.XToastUtils
 import com.jeremyliao.liveeventbus.LiveEventBus
-import com.scwang.smartrefresh.layout.api.RefreshLayout
+import com.scwang.smart.refresh.layout.api.RefreshLayout
 import com.xuexiang.xaop.annotation.SingleClick
 import com.xuexiang.xpage.annotation.Page
 import com.xuexiang.xpage.base.XPageActivity
